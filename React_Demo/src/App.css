@@ -296,6 +296,8 @@ border: none;
   margin-bottom: 1%;
   width: 17.5%;
 
+  font-weight: bolder;
+
   background-color: hwb(123 51% 1% / 0.849);
 }
 .btn_Buy:hover
